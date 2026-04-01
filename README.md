@@ -60,8 +60,8 @@ Equivalently, `hash * 33` is computed as `(hash << 5) + hash`, which is a common
 |---|---|
 | `cipher.py` | Main implementation (encrypt, decrypt, DJB2 hash) |
 | `test_cipher.py` | Automated round-trip test script with 4 test cases |
-| `alice.txt` | Key source book 1 (download instructions below) |
-| `sherlock.txt` | Key source book 2 (download instructions below) |
+| `alice.txt` | Key source book 1  |
+| `sherlock.txt` | Key source book 2 |
 | `README.md` | This file |
 
 ---
